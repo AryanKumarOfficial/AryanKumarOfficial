@@ -25,9 +25,9 @@ I'm Aryan Kumar, a digital marketing specialist and developer with a passion for
 
 ## 📫 Contact Me
 
-- **Website**: [CLOM Enterprises](https://clomenterprises.com)
-- **Email**: aryan.kumar@example.com (replace with your actual email)
-- **LinkedIn**: [Aryan Kumar](https://www.linkedin.com/in/aryan-kumar) (replace with your actual LinkedIn profile)
+- **Website**: [Personal Portfolio]([https://clomenterprises.com](https://aryankumarofficial.vercel.app/))
+- **Email**: aryanak9163@gmail.com
+- **LinkedIn**: [Aryan Kumar](https://www.linkedin.com/in/aryankumarofficial)
 
 Feel free to reach out for collaborations, project inquiries, or just to connect!
 
