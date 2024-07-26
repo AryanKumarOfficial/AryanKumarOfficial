@@ -1,14 +1,18 @@
 # Aryan Kumar
 
-![Banner](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?size=338&ext=jpg)
+![Banner](./Banner.png)
 
 ### Welcome to my GitHub profile!
 
 I'm Aryan Kumar, a developer with a passion for technology and innovation. I offer a comprehensive range of services, including e-commerce account management, website building, and SEO marketing.
 
+---
+
 ## 🌟 Highlights
 
 - **Diploma Holder**: Proud recipient of a diploma, constantly striving to expand my knowledge and skills.
+
+---
 
 ## 🛠️ Skills and Technologies
 
@@ -17,9 +21,13 @@ I'm Aryan Kumar, a developer with a passion for technology and innovation. I off
 - **Tools and Platforms**: Git, GitHub, WordPress, Shopify
 - **Styling**: Tailwind CSS
 
+---
+
 ## 🚀 Current Projects
 
-- **Interactive 3x3 Matrix React App**: Developing an interactive application using React that includes a 3x3 matrix feature, an About page, and a Contact Us page.
+- **Stack Overflow Clone**: Developing a clone of Stack Overflow using Next.js and Appwrite, focusing on creating a responsive, interactive, and full-featured Q&A platform.
+
+---
 
 ## 📫 Contact Me
 
@@ -29,16 +37,24 @@ I'm Aryan Kumar, a developer with a passion for technology and innovation. I off
 
 Feel free to reach out for collaborations, project inquiries, or just to connect!
 
+---
+
 ## 📈 GitHub Stats
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKumarOfficial&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumarOfficial&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryanKumarOfficial&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=AryanKumarOfficial&style=for-the-badge&color=brightgreen)
+<img src="https://github-readme-stats.vercel.app/api?username=AryanKumarOfficial&show_icons=true&theme=radical" alt="Aryan's GitHub stats" width="100%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKumarOfficial&layout=compact&theme=radical" alt="Top Languages" width="100%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKumarOfficial&theme=radical" alt="GitHub Streak" width="100%">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AryanKumarOfficial&theme=radical" alt="GitHub Trophies" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=AryanKumarOfficial&style=for-the-badge&color=brightgreen" alt="Visitor Count" width="100%">
+
+---
 
 ## ☕ Support Me
 
 If you enjoy my work, consider buying me a coffee!
 
-[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AryanKumarOfficial&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff">](https://www.buymeacoffee.com/AryanKumarOfficial)
+[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=AryanKumarOfficial&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" width="100%">](https://www.buymeacoffee.com/AryanKumarOfficial)
