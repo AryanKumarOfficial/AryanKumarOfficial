@@ -16,7 +16,7 @@ I'm Aryan Kumar, a developer with a passion for technology and innovation. I off
 
 ## 🛠️ Skills and Technologies
 
-- **Programming Languages**: JavaScript, Python, HTML, CSS, TypeScript
+- **Programming Languages**: JavaScript, Python, HTML, CSS, TypeScript, Java (currently learning)
 - **Frameworks**: React, Node.js, Next.js
 - **Tools and Platforms**: Git, GitHub, WordPress, Shopify
 - **Styling**: Tailwind CSS
