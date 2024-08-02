@@ -53,6 +53,13 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 
 ---
 
+## 🔝 Top Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKumarOfficial&repo=your-repository-name&theme=radical)](https://github.com/AryanKumarOfficial/your-repository-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKumarOfficial&repo=another-repository-name&theme=radical)](https://github.com/AryanKumarOfficial/another-repository-name)
+
+---
+
 ## ☕ Support Me
 
 If you enjoy my work, consider buying me a coffee!
