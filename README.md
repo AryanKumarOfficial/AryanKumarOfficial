@@ -53,10 +53,24 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 
 ---
 
+
 ## 🔝 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKumarOfficial&repo=your-repository-name&theme=radical)](https://github.com/AryanKumarOfficial/your-repository-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AryanKumarOfficial&repo=another-repository-name&theme=radical)](https://github.com/AryanKumarOfficial/another-repository-name)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/aryankumarofficial/cloudnote" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=cloudnote&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="CloudNote" style="height: 200px;" />
+  </a>
+  <a href="https://github.com/aryankumarofficial/codeswear" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=codeswear&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="Codeswear" style="height: 200px;" />
+  </a>
+  <a href="https://github.com/aryankumarofficial/quotesnap" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=quotesnap&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="QuoteSnap" style="height: 200px;" />
+  </a>
+  <a href="https://github.com/aryankumarofficial/banao-technology" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=banao-technology&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="QuoteSnap" style="height: 200px;" />
+  </a>
+</div>
+
 
 ---
 
