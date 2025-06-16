@@ -57,6 +57,12 @@ Feel free to reach out for collaborations, project inquiries, or just to connect
 ## 🔝 Top Repositories
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/aryankumarofficial/stackoverflow-appwrite-clone" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=stackoverflow-appwrite-clone&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="CloudNote" style="height: 200px;" />
+  </a>
+  <a href="https://github.com/aryankumarofficial/softsell" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=softsell&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="CloudNote" style="height: 200px;" />
+  </a>
   <a href="https://github.com/aryankumarofficial/cloudnote" style="flex: 1 1 300px; max-width: 300px; margin: 10px;">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryankumarofficial&repo=cloudnote&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=true" alt="CloudNote" style="height: 200px;" />
   </a>
